@@ -1,0 +1,29 @@
+version: '3.8'
+
+services:
+  app_bancoa:
+    build: API-REST-BANCO-BACKEND
+    mem_limit: 512m
+    ports:
+      - "8080:8080"
+    environment:
+      DB_URL: jdbc:mysql://bancoa:3306/registration?createDatabaseIfNotExist=true&serverTimezone=UTC
+      DB_USER_NAME: root
+      DB_PASSWORD: Balliforche19
+    restart: always
+    depends_on:
+      bancoa:
+          condition: service_healthy
+  bancoa:
+    image: mysql
+    ports:
+      - "3307:3306"
+    environment:
+      MYSQL_ROOT_PASSWORD: Balliforche19
+      MYSQL_PASSWORD: Balliforche19
+      MYSQL_DATABASE: registration
+    restart: always
+    healthcheck:
+      test: ["CMD", "mysqladmin" ,"ping", "-h", "localhost"]
+      timeout: 10s
+      retries: 10

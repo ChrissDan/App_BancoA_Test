@@ -1,0 +1,13 @@
+C:\Users\Admin\Desktop\API-REST-BANCO-BACKEND\API-REST-BANCO-BACKEND\src\main\java\com\sistemasdistribuidos\banco\bakend\API_REST_BANCO_BACKEND\ApiRestBancoBackendApplication.java
+C:\Users\Admin\Desktop\API-REST-BANCO-BACKEND\API-REST-BANCO-BACKEND\src\main\java\com\sistemasdistribuidos\banco\bakend\API_REST_BANCO_BACKEND\config\WebConfig.java
+C:\Users\Admin\Desktop\API-REST-BANCO-BACKEND\API-REST-BANCO-BACKEND\src\main\java\com\sistemasdistribuidos\banco\bakend\API_REST_BANCO_BACKEND\controller\ClienteController.java
+C:\Users\Admin\Desktop\API-REST-BANCO-BACKEND\API-REST-BANCO-BACKEND\src\main\java\com\sistemasdistribuidos\banco\bakend\API_REST_BANCO_BACKEND\controller\UserController.java
+C:\Users\Admin\Desktop\API-REST-BANCO-BACKEND\API-REST-BANCO-BACKEND\src\main\java\com\sistemasdistribuidos\banco\bakend\API_REST_BANCO_BACKEND\model\Cliente.java
+C:\Users\Admin\Desktop\API-REST-BANCO-BACKEND\API-REST-BANCO-BACKEND\src\main\java\com\sistemasdistribuidos\banco\bakend\API_REST_BANCO_BACKEND\model\Movimiento.java
+C:\Users\Admin\Desktop\API-REST-BANCO-BACKEND\API-REST-BANCO-BACKEND\src\main\java\com\sistemasdistribuidos\banco\bakend\API_REST_BANCO_BACKEND\model\User.java
+C:\Users\Admin\Desktop\API-REST-BANCO-BACKEND\API-REST-BANCO-BACKEND\src\main\java\com\sistemasdistribuidos\banco\bakend\API_REST_BANCO_BACKEND\repository\ClienteRepository.java
+C:\Users\Admin\Desktop\API-REST-BANCO-BACKEND\API-REST-BANCO-BACKEND\src\main\java\com\sistemasdistribuidos\banco\bakend\API_REST_BANCO_BACKEND\repository\MovimientoRepository.java
+C:\Users\Admin\Desktop\API-REST-BANCO-BACKEND\API-REST-BANCO-BACKEND\src\main\java\com\sistemasdistribuidos\banco\bakend\API_REST_BANCO_BACKEND\repository\UserRepository.java
+C:\Users\Admin\Desktop\API-REST-BANCO-BACKEND\API-REST-BANCO-BACKEND\src\main\java\com\sistemasdistribuidos\banco\bakend\API_REST_BANCO_BACKEND\service\ClienteService.java
+C:\Users\Admin\Desktop\API-REST-BANCO-BACKEND\API-REST-BANCO-BACKEND\src\main\java\com\sistemasdistribuidos\banco\bakend\API_REST_BANCO_BACKEND\service\MovimientoService.java
+C:\Users\Admin\Desktop\API-REST-BANCO-BACKEND\API-REST-BANCO-BACKEND\src\main\java\com\sistemasdistribuidos\banco\bakend\API_REST_BANCO_BACKEND\service\UserService.java

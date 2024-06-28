@@ -1,0 +1,13 @@
+com\sistemasdistribuidos\banco\bakend\API_REST_BANCO_BACKEND\service\ClienteService.class
+com\sistemasdistribuidos\banco\bakend\API_REST_BANCO_BACKEND\ApiRestBancoBackendApplication.class
+com\sistemasdistribuidos\banco\bakend\API_REST_BANCO_BACKEND\repository\MovimientoRepository.class
+com\sistemasdistribuidos\banco\bakend\API_REST_BANCO_BACKEND\model\Cliente.class
+com\sistemasdistribuidos\banco\bakend\API_REST_BANCO_BACKEND\repository\ClienteRepository.class
+com\sistemasdistribuidos\banco\bakend\API_REST_BANCO_BACKEND\service\UserService.class
+com\sistemasdistribuidos\banco\bakend\API_REST_BANCO_BACKEND\model\User.class
+com\sistemasdistribuidos\banco\bakend\API_REST_BANCO_BACKEND\service\MovimientoService.class
+com\sistemasdistribuidos\banco\bakend\API_REST_BANCO_BACKEND\controller\ClienteController.class
+com\sistemasdistribuidos\banco\bakend\API_REST_BANCO_BACKEND\config\WebConfig.class
+com\sistemasdistribuidos\banco\bakend\API_REST_BANCO_BACKEND\model\Movimiento.class
+com\sistemasdistribuidos\banco\bakend\API_REST_BANCO_BACKEND\repository\UserRepository.class
+com\sistemasdistribuidos\banco\bakend\API_REST_BANCO_BACKEND\controller\UserController.class
